@@ -2,11 +2,6 @@
  * The FoodPyramid class represents the main way to run the ecological pyramid program with the ternary tree represented by OrganismTree and OrganismNode.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #5 - Ecological Pyramid
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 import java.util.Scanner;
 
