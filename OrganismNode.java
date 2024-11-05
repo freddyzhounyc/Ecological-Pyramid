@@ -2,11 +2,6 @@
  * The OrganismNode class represents a node in a tree. The tree being represented is a ternary tree that represents an organism in an ecological pyramid.
  *
  * @author Freddy Zhou
- *      Email: freddy.zhou@stonybrook.edu
- *      Stony Brook ID: 116580337
- *      HW #5 - Ecological Pyramid
- *      CSE 214
- *      Recitation Number: R04 | TA Names: Veronica Oreshko, Anuj Sureshbhai, Alex Zuzow
  */
 public class OrganismNode{
     private OrganismNode left; // left child reference.
